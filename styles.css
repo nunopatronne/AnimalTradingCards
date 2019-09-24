@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+.superwrapper {
+    display: block;
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+    box-shadow: 8px 8px 4px lightgray;
+    overflow: hidden;
+}
+
+.dragonDiv {
+    margin: 20px;
+}
+
+.dragon {
+    width: 100%;
+    border: 1px solid lightgray;
+}
+.cardDetails {
+    margin: 20px;
+    border: 1px solid lightgray;
+    padding: 10px 20px 0 20px;
+}
+ul {
+    padding: 0;
+    list-style: none;
+}
+li {
+    margin: 5px;
+}
+
+ul li span {
+    font-weight: bold;
+}
